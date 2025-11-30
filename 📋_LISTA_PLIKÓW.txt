@@ -1,0 +1,105 @@
+╔══════════════════════════════════════════════════════════════════╗
+║          LISTA PLIKÓW - STRONA SKP STACHURSKI                    ║
+╚══════════════════════════════════════════════════════════════════╝
+
+📖 DOKUMENTACJA (Zacznij od tych plików!)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+⭐ INSTRUKCJA.md          - GŁÓWNA INSTRUKCJA - przeczytaj jako pierwszą
+⭐ START_HERE.md          - Szybki start w 3 krokach
+   README.md              - Szczegółowa instrukcja wdrożenia GitHub Pages
+   SEO_GUIDE.md           - Kompletny przewodnik pozycjonowania
+   PREVIEW_GUIDE.md       - Jak podejrzeć stronę lokalnie przed wdrożeniem
+
+📄 STRONY HTML (Gotowe do wdrożenia)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+   index.html             - Strona główna ze sliderem
+   kontakt.html           - Dane kontaktowe, godziny otwarcia
+   o-stacji.html          - Informacje O stacji
+   promocje.html          - Aktualne promocje i oferty
+   galeria.html           - Galeria zdjęć z lightbox
+   stacja-kontroli.html   - Szczegółowe informacje o usługach
+
+🎨 STYLE I SKRYPTY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+   css/
+   └── style.css          - Główny plik stylów (518 linii, 8.5 KB)
+   
+   js/
+   └── main.js            - Funkcjonalności (slider, cookies, menu, galeria)
+
+🖼️ MULTIMEDIA
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+   images/
+   ├── 2015/11/
+   │   ├── SKP_Nowy_Zmigrod1.jpg         - Główne zdjęcie stacji
+   │   ├── DSC_0312.jpg                  - Wnętrze stacji
+   │   ├── DSC_0304-e1452445320693.jpg   - Wyposażenie
+   │   ├── Certus_2.jpg                  - Urządzenia Certus
+   │   ├── Regulacja1.jpg                - Promocja regulacja świateł
+   │   ├── Mycie1.jpg                    - Darmowe mycie
+   │   ├── promo.png                     - Grafika promocyjna
+   │   ├── pasek_red1.png                - Czerwony pasek
+   │   └── pasek_black1.png              - Czarny pasek
+   └── 2016/
+       ├── 01/
+       │   └── SKP_Nowy_Zmigrod_2.jpg    - Widok 2
+       └── 06/
+           └── SKP_Nowy_Zmigrod_3.jpg    - Widok 3
+
+🔍 SEO I KONFIGURACJA
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+   sitemap.xml            - Mapa strony dla Google
+   robots.txt             - Instrukcje dla robotów wyszukiwarek
+   favicon.ico            - Ikona strony w przeglądarce
+   .gitignore             - Pliki ignorowane przez Git
+
+╔══════════════════════════════════════════════════════════════════╗
+║                    STATYSTYKI PROJEKTU                           ║
+╚══════════════════════════════════════════════════════════════════╝
+
+📊 Rozmiar całkowity:     ~1.6 MB
+📄 Liczba stron HTML:     6
+🎨 Linie CSS:            518
+💻 Linie JavaScript:     ~450
+📸 Liczba obrazów:       11
+📚 Dokumentacja:         5 plików (20+ stron)
+
+╔══════════════════════════════════════════════════════════════════╗
+║                    KOLEJNE KROKI                                 ║
+╚══════════════════════════════════════════════════════════════════╝
+
+1️⃣  Przeczytaj INSTRUKCJA.md lub START_HERE.md
+2️⃣  Skonfiguruj Google Analytics (js/main.js, linia 14)
+3️⃣  Wdróż na GitHub Pages (instrukcje w README.md)
+4️⃣  Zarejestruj w Google Search Console
+5️⃣  Utwórz Google Business Profile ⭐ WAŻNE!
+
+╔══════════════════════════════════════════════════════════════════╗
+║                    FUNKCJE STRONY                                ║
+╚══════════════════════════════════════════════════════════════════╝
+
+✅ Responsywny design (mobile, tablet, desktop)
+✅ Slider zdjęć z auto-play
+✅ Galeria z lightbox
+✅ Mobilne menu hamburger
+✅ Lazy loading obrazów
+✅ SEO zoptymalizowane
+✅ Banner zgody na cookies (RODO)
+✅ Google Analytics ready
+✅ Schema.org markup
+✅ Sitemap.xml
+✅ Open Graph tags
+✅ Fast loading
+
+╔══════════════════════════════════════════════════════════════════╗
+║                    POTRZEBUJESZ POMOCY?                          ║
+╚══════════════════════════════════════════════════════════════════╝
+
+📖 Sprawdź dokumentację - odpowiedzi na 95% pytań
+🔍 Google: "github pages tutorial"
+💬 GitHub Docs: https://docs.github.com/pages
+📊 Google Analytics: https://support.google.com/analytics
+
+╔══════════════════════════════════════════════════════════════════╗
+║                 Powodzenia z nową stroną! 🚗💨                  ║
+╚══════════════════════════════════════════════════════════════════╝
